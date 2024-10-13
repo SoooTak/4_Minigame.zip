@@ -18,14 +18,5 @@
     <ClCompile Include="main.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="test1.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="TEST2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
